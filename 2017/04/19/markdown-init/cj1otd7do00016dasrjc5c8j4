@@ -20,7 +20,7 @@
 
     <!--Open Graph Title-->
     
-        <meta property="og:title" content="eddy"/>
+        <meta property="og:title" content="markdowm init"/>
     
 
     <!--Open Graph Description-->
@@ -33,7 +33,7 @@
 
     <!--Type page-->
     
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
     
 
     <!--Page Cover-->
@@ -44,7 +44,7 @@
 
     <!-- Title -->
     
-    <title>Archiv - eddy</title>
+    <title>markdowm init - eddy</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
@@ -130,63 +130,87 @@
 </nav>
 
     <!-- Main Content -->
-    
+    <!-- Page Header -->
+<!-- Set your background image for this header in your post front-matter: cover -->
 
-<!-- Page Header -->
-<!-- Set your background image for this header in the theme's configuration: index_cover -->
 <header class="intro-header" style="background-image: url('img/home-bg.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Archiv</h1>
+                <div class="post-heading">
+                    <h1>markdowm init</h1>
+                    
+                    <span class="meta">
+                        <!-- Date and Author -->
+                        
+                        2017-04-19
+                    </span>
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
-<div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+
+            <!-- Tags and categories -->
+           
+
+            <!-- Gallery -->
             
-                <div class="post-preview">
-    <a href="/2017/04/19/markdown-init/cj1otd7do00016dasrjc5c8j4">
-        <h1 class="post-title archive">
-            markdowm init
-        </h1>
-    </a>
-    <p class="post-meta archive">
-        <!-- Date and Author -->
-        
-        2017-04-19
-    </p>
-</div>
-            
-                <div class="post-preview">
-    <a href="/2017/04/19/hello/cj1otd7dk00006dasrwy0vmlf">
-        <h1 class="post-title archive">
-            hello
-        </h1>
-    </a>
-    <p class="post-meta archive">
-        <!-- Date and Author -->
-        
-        2017-04-19
-    </p>
-</div>
-            
-            <div class="archive-before-pagination"></div>
-            <ul class="pager">
-    
-    
+
+            <!-- Post Main Content -->
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <h1 id="标题（-）"><a href="#标题（-）" class="headerlink" title="标题（#）"></a>标题（#）</h1><blockquote>
+<p>h1 #</p>
+<p>h2 ###</p>
+</blockquote>
+<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><h4 id="有序-1"><a href="#有序-1" class="headerlink" title="有序(1. )"></a>有序(1. )</h4><blockquote>
+<p>1.1</p>
+<p>2.2</p>
+</blockquote>
+<h4 id="无序"><a href="#无序" class="headerlink" title="无序(* )"></a>无序(* )</h4><blockquote>
+<ul>
+<li>1</li>
+<li>2</li>
 </ul>
+</blockquote>
+<h1 id="引用（-gt-）"><a href="#引用（-gt-）" class="headerlink" title="引用（&gt;）"></a>引用（&gt;）</h1><blockquote>
+<p>这是个引用</p>
+</blockquote>
+<h1 id="插入"><a href="#插入" class="headerlink" title="插入"></a>插入</h1><h4 id="链接（）"><a href="#链接（）" class="headerlink" title="链接（）"></a>链接（<a href=""></a>）</h4><blockquote>
+<p><a href="https://zhangxk123.github.io/" target="_blank" rel="external">这是我的博客链接</a></p>
+</blockquote>
+<h4 id="图片"><a href="#图片" class="headerlink" title="图片()"></a>图片(<img src="" alt="">)</h4><blockquote>
+<p><img src="http://bpic.588ku.com/back_pic/00/02/20/6756149057a869b.jpg!/fh/300/quality/90/unsharp/true/compress/true" alt="icon"></p>
+</blockquote>
+<h1 id="粗体和斜体"><a href="#粗体和斜体" class="headerlink" title="粗体和斜体"></a>粗体和斜体</h1><blockquote>
+<p><strong>这是粗体</strong> （<strong> text </strong>）</p>
+<p><em>这是斜体</em> （<em> text </em>）</p>
+</blockquote>
+<h1 id="代码框"><a href="#代码框" class="headerlink" title="代码框(``)"></a>代码框(``)</h1><blockquote>
+<p><code>code</code></p>
+</blockquote>
+<h1 id="分割线（-）"><a href="#分割线（-）" class="headerlink" title="分割线（*）"></a>分割线（<em>*</em>）</h1><hr>
+
+
+                
+            </div>
+
+            <!-- Comments -->
+            
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    
+
+
+                </div>
+            
         </div>
     </div>
-</div>
-
-
+</article>
 
     <!-- Footer -->
     <hr />
