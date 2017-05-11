@@ -3,14 +3,19 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives: 2017/4 | eddy</title>
+  <title>hello | eddy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="eddy">
-<meta property="og:url" content="http://yoursite.com/archives/2017/04/index.html">
+  <meta name="description" content="你好这是我的第一篇文章:）">
+<meta name="keywords">
+<meta property="og:type" content="article">
+<meta property="og:title" content="hello">
+<meta property="og:url" content="http://yoursite.com/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08">
 <meta property="og:site_name" content="eddy">
+<meta property="og:description" content="你好这是我的第一篇文章:）">
+<meta property="og:updated_time" content="2017-04-19T08:07:18.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="eddy">
+<meta name="twitter:title" content="hello">
+<meta name="twitter:description" content="你好这是我的第一篇文章:）">
   
     <link rel="alternate" href="/atom.xml" title="eddy" type="application/atom+xml">
   
@@ -63,58 +68,52 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2017" class="archive-year">2017</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8" class="archive-article-date">
-  <time datetime="2017-04-19T08:45:29.000Z" itemprop="datePublished">Apr 19</time>
+        <section id="main"><article id="post-hello" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" class="article-date">
+  <time datetime="2017-04-19T05:54:45.000Z" itemprop="datePublished">2017-04-19</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8">markdowm init</a>
+    <h1 class="article-title" itemprop="name">
+      hello
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" class="archive-article-date">
-  <time datetime="2017-04-19T05:54:45.000Z" itemprop="datePublished">Apr 19</time>
-</a>
+    <div class="article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08">hello</a>
-    </h1>
-  
+        <h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><p>这是我的第一篇文章:）</p>
 
-    </header>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" data-id="cj2k3xxx70000gqash0xrxr08" class="article-share-link">Share</a>
+      
+      
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">markdowm init</div>
+    </a>
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 </section>
         

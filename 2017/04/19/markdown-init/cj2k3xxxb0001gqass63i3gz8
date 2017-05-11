@@ -3,14 +3,21 @@
 <head>
   <meta charset="utf-8">
   
-  <title>eddy</title>
+  <title>markdowm init | eddy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="eddy">
-<meta property="og:url" content="http://yoursite.com/index.html">
+  <meta name="description" content="标题（#） h1 # h2 ###  列表有序(1. ) 1.1 2.2  无序(* )  1 2   引用（&amp;gt;） 这是个引用  插入链接（） 这是我的博客链接  图片()   粗体和斜体 这是粗体 （ text ） 这是斜体 （ text ）  代码框(``) code  分割线（*）">
+<meta name="keywords">
+<meta property="og:type" content="article">
+<meta property="og:title" content="markdowm init">
+<meta property="og:url" content="http://yoursite.com/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8">
 <meta property="og:site_name" content="eddy">
+<meta property="og:description" content="标题（#） h1 # h2 ###  列表有序(1. ) 1.1 2.2  无序(* )  1 2   引用（&amp;gt;） 这是个引用  插入链接（） 这是我的博客链接  图片()   粗体和斜体 这是粗体 （ text ） 这是斜体 （ text ）  代码框(``) code  分割线（*）">
+<meta property="og:image" content="http://bpic.588ku.com/back_pic/00/02/20/6756149057a869b.jpg!/fh/300/quality/90/unsharp/true/compress/true">
+<meta property="og:updated_time" content="2017-04-19T09:24:45.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="eddy">
+<meta name="twitter:title" content="markdowm init">
+<meta name="twitter:description" content="标题（#） h1 # h2 ###  列表有序(1. ) 1.1 2.2  无序(* )  1 2   引用（&amp;gt;） 这是个引用  插入链接（） 这是我的博客链接  图片()   粗体和斜体 这是粗体 （ text ） 这是斜体 （ text ）  代码框(``) code  分割线（*）">
+<meta name="twitter:image" content="http://bpic.588ku.com/back_pic/00/02/20/6756149057a869b.jpg!/fh/300/quality/90/unsharp/true/compress/true">
   
     <link rel="alternate" href="/atom.xml" title="eddy" type="application/atom+xml">
   
@@ -63,9 +70,7 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-markdown-init" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-markdown-init" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8" class="article-date">
   <time datetime="2017-04-19T08:45:29.000Z" itemprop="datePublished">2017-04-19</time>
@@ -78,8 +83,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2017/04/19/markdown-init/cj2k3xxxb0001gqass63i3gz8">markdowm init</a>
+    <h1 class="article-title" itemprop="name">
+      markdowm init
     </h1>
   
 
@@ -128,47 +133,23 @@
     </footer>
   </div>
   
-</article>
-
-
+    
+<nav id="article-nav">
   
-    <article id="post-hello" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" class="article-date">
-  <time datetime="2017-04-19T05:54:45.000Z" itemprop="datePublished">2017-04-19</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
+    <a href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
         
+          hello
+        
+      </div>
+    </a>
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08">hello</a>
-    </h1>
   
+</nav>
 
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><p>这是我的第一篇文章:）</p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://yoursite.com/2017/04/19/hello/cj2k3xxx70000gqash0xrxr08" data-id="cj2k3xxx70000gqash0xrxr08" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
   
 </article>
-
-
-  
 
 </section>
         
